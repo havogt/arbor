@@ -1,8 +1,6 @@
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/arbor-sim/arbor) 
-
 # Arbor Library
 
-[![Build Status](https://travis-ci.org/arbor-sim/arbor.svg?branch=master)](https://travis-ci.org/arbor-sim/arbor)
+[![Build Status](https://travis-ci.org/arbor-sim/arbor.svg?branch=master)](https://travis-ci.org/arbor-sim/arbor) [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/arbor-sim/arbor) 
 
 Arbor is a library for implementing performance portable network simulations of multi-compartment neuron models.
 
